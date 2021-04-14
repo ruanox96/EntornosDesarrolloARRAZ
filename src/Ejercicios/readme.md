@@ -3,7 +3,7 @@
 
 # 📜 Actividades
 Actividad 1: Sumador con windows builder https://github.com/ruanox96/EntornosDesarrolloARRAZ/blob/main/src/Ejercicios/Ejercicio1.java
-![imagen del logo de trivial](https://i.imgur.com/SQE6fTE.jpg)
+![imagen del sumador](https://i.imgur.com/SQE6fTE.jpg)
 
 Actividad 2: Realizamos con ERMASTER, el plugin instalado anteriormente, un diagrama de entidad relacion https://github.com/ruanox96/EntornosDesarrolloARRAZ/blob/main/src/Ejercicios/Ejercicio2.erm
 
