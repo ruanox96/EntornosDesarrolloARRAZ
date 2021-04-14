@@ -9,6 +9,7 @@ Actividad 2: Realizamos con ERMASTER, el plugin instalado anteriormente, un diag
 ![imagen del modelo er](https://i.imgur.com/AFFamwt.jpg)
 
 Actividad 2.1:Exportamos la actividad anterior a sql, dandole clic derecho y export DDL https://github.com/ruanox96/EntornosDesarrolloARRAZ/blob/main/src/Ejercicios/Ejercicio2.sql
+![imagen del modelo sql](https://i.imgur.com/lZVuIIY.jpg)
 
 Pdf del plugin de php
 https://github.com/ruanox96/EntornosDesarrolloARRAZ/blob/main/src/Ejercicios/ppg.pdf
