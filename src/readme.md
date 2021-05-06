@@ -1,4 +1,5 @@
 # 🖩 Calculadora con Android Studio 🖩
+https://i.imgur.com/sokeHpY.jpg
 
 
 # ✍️ AUTOR
