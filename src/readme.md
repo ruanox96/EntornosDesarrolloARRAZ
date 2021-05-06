@@ -16,8 +16,7 @@ Tenemos que crear el TextView donde veremos el resultado de las operaciones
 ✏️Tercer Paso✏️
 Vista de como se veria la calculadora desde el teléfono, ademas si pinchamos nos lleva al video para ver su funcionamiento
 
-![imagen](https://i.imgur.com/iGPx6rp.jpg)
-
+![imagen](https://i.imgur.com/iGPx6rp.jpg)(https://youtu.be/xT_sAj7c1Lc)
 
 
 
